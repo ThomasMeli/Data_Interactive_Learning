@@ -1,5 +1,9 @@
 # Data_Learning_Tools
-Some of the best educational/visualization tools I've seen for learning data science.  I prioritize quality over quantity so will only post the best of the best that I find here.  If you know an awesome tool, feel free to share.
+Some of the best educational/visualization tools I've seen for learning data science.  I prioritize quality over quantity so will only post the best of the best that I find here. 
+
+The resources below are selected by the following criteria:
+* Explained in simple language without dumbing things down.
+* 
 
 ## Deep Learning
 
@@ -21,4 +25,8 @@ Some of the best educational/visualization tools I've seen for learning data sci
 
 ## R
 
-* 
+## Youtuber with great explainer videos.
+
+* 3 Blue 1 Brown - 
+* Zach Star
+* Statquest
