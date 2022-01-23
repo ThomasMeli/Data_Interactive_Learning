@@ -18,7 +18,7 @@ The resources below are selected by the following criteria:
 * **A visual explanation of Permutation Testing** - https://www.jwilber.me/permutationtest/ - 
 
 ## Data Structures and Algorithms
-* Algorithms Step by Step Visualizer - https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/ - This page starts on bubble sort, but there is a highly navigatable menu on the left side with a ton of algorithms on the side.
+* **Algorithms Step by Step Visualizer** - https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/ - This page starts on bubble sort, but there is a highly navigatable menu on the left side with a ton of algorithms on the side.
 
 ## Pandas
 
