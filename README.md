@@ -2,8 +2,11 @@
 Some of the best educational/visualization tools I've seen for learning data science.  I prioritize quality over quantity so will only post the best of the best that I find here. 
 
 The resources below are selected by the following criteria:
-* Explained in simple language without dumbing things down.
-* 
+* Explained in simple language while still explaining the math without dumbing it down.
+* Usually the have some kind of animation or interactive component.
+* The visual concepts are presented clearly and unambiguously.
+
+If you have a resource
 
 ## Explorable Learning Theory
 * http://worrydream.com/ExplorableExplanations/
