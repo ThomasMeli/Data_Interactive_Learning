@@ -51,5 +51,5 @@ The resources below are selected by the following criteria:
 * Khan Academy
 
 ## Free Online Books on Data Science
-* https://bayesiancomputationbook.com/welcome.html
+* **Bayesian Modeling and Computation in Python** https://bayesiancomputationbook.com/welcome.html
 * 
