@@ -8,6 +8,7 @@ The resources below are selected by the following criteria:
 ## Deep Learning
 
 * **Distill.pub** - https://distill.pub - This site has probably the highest standard in interactive explanations I've ever seen.  Absolutely amazing work.
+* **Backpropagation Explainer** - https://xnought.github.io/backprop-explainer/
 
 ## Linear Algebra
 
