@@ -26,7 +26,11 @@ The resources below are selected by the following criteria:
 
 ## R
 
-## Youtuber with great explainer videos.
+## Researchers that are fantastic explainers
+
+* Mingwei Li - https://tiga1231.github.io
+
+## Youtubers with great explainer videos.
 
 * 3 Blue 1 Brown - 
 * Zach Star
