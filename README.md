@@ -22,11 +22,16 @@ The resources below are selected by the following criteria:
 * **Matrix Multiplication Visualizer** http://matrixmultiplication.xyz
 
 ## Statistics
+
+* **Seeing Theory** - https://seeing-theory.brown.edu
+
 * **A visual explanation of Permutation Testing** - https://www.jwilber.me/permutationtest/ - 
 
 ## Data Structures and Algorithms
 * **Algorithms Step by Step Visualizer** - https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/ - This page starts on bubble sort, but there is a highly navigatable menu on the left side with a ton of algorithms on the side.
 
+* https://bost.ocks.org/mike/algorithms/
+* 
 ## Pandas
 
 * https://pandastutor.com
