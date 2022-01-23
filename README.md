@@ -7,7 +7,7 @@ Some of the best educational/visualization tools I've seen for learning data sci
 
 ## Linear Algebra
 
-* http://matrixmultiplication.xyz
+* **Matrix Multiplication Visualizer** http://matrixmultiplication.xyz
 
 ## Statistics
 * A visual explanation of Permutation Testing - https://www.jwilber.me/permutationtest/ - 
