@@ -3,7 +3,7 @@ Some of the best educational/visualization tools I've seen for learning data sci
 
 ## Deep Learning
 
-* https://distill.pub
+* **Distill.pub** - https://distill.pub - **The highest standard in interactive explanations ** - 
 
 ## Linear Algebra
 
