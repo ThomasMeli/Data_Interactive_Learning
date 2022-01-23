@@ -38,6 +38,9 @@ The resources below are selected by the following criteria:
 * Bret Victor
 * Mingwei Li - https://tiga1231.github.io
 
+## Causal Inference
+* https://www.r-bloggers.com/2022/01/simple-examples-to-understand-what-confounders-colliders-mediators-and-moderators-are-and-how-to-control-for-variables-in-r-with-regression-and-propensity-score-matching/
+
 ## Youtubers with great explainer videos.
 
 * 3 Blue 1 Brown - 
