@@ -7,6 +7,7 @@ The resources below are selected by the following criteria:
 
 ## Explorable Learning Theory
 * http://worrydream.com/ExplorableExplanations/
+* https://distill.pub/2020/communicating-with-interactive-articles/
 
 ## Deep Learning
 
