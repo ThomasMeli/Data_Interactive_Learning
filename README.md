@@ -6,7 +6,7 @@ The resources below are selected by the following criteria:
 * Usually the have some kind of animation or interactive component.
 * The visual concepts are presented clearly and unambiguously.
 
-If you have a resource
+
 
 ## Explorable Learning Theory
 * http://worrydream.com/ExplorableExplanations/
@@ -50,3 +50,6 @@ If you have a resource
 * Datacamp.com
 * Khan Academy
 
+## Free Online Books on Data Science
+* https://bayesiancomputationbook.com/welcome.html
+* 
