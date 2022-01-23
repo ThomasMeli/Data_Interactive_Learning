@@ -39,3 +39,10 @@ The resources below are selected by the following criteria:
 * 3 Blue 1 Brown - 
 * Zach Star
 * Statquest
+
+## Best Online Platforms for Self-Learning
+
+* Brilliant.org
+* Datacamp.com
+* Khan Academy
+
