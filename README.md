@@ -5,6 +5,9 @@ The resources below are selected by the following criteria:
 * Explained in simple language without dumbing things down.
 * 
 
+## Explorable Learning Theory
+* http://worrydream.com/ExplorableExplanations/
+
 ## Deep Learning
 
 * **Distill.pub** - https://distill.pub - This site has probably the highest standard in interactive explanations I've ever seen.  Absolutely amazing work.
@@ -28,6 +31,7 @@ The resources below are selected by the following criteria:
 
 ## Researchers that are fantastic explainers
 
+* Bret Victor
 * Mingwei Li - https://tiga1231.github.io
 
 ## Youtubers with great explainer videos.
