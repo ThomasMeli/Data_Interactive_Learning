@@ -12,6 +12,12 @@ The resources below are selected by the following criteria:
 * http://worrydream.com/ExplorableExplanations/
 * https://distill.pub/2020/communicating-with-interactive-articles/
 
+## Machine Learning 
+
+## High Dimensionality Visualization
+* **UMAP / T-SNE / PCA Visualizer** - https://projector.tensorflow.org
+
+
 ## Deep Learning
 
 * **Distill.pub** - https://distill.pub - This site has probably the highest standard in interactive explanations I've ever seen.  Absolutely amazing work.
