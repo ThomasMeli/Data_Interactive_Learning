@@ -7,10 +7,15 @@ The resources below are selected by the following criteria:
 * Usually the have some kind of animation or interactive component.
 * The visual concepts are presented clearly and unambiguously.
 
+## General Sites With Interactive Explanations
+* **Setosa** - https://setosa.io/#/
+* **Distill.pub** - https://distill.pub - 
+
 
 ## Explorable Learning Theory
 * http://worrydream.com/ExplorableExplanations/
 * https://distill.pub/2020/communicating-with-interactive-articles/
+
 
 ## Machine Learning 
 
@@ -20,7 +25,6 @@ The resources below are selected by the following criteria:
 
 ## Deep Learning
 
-* **Distill.pub** - https://distill.pub - This site has probably the highest standard in interactive explanations I've ever seen.  Absolutely amazing work.
 * **Backpropagation Explainer** - https://xnought.github.io/backprop-explainer/
 
 ## Linear Algebra
@@ -37,7 +41,8 @@ The resources below are selected by the following criteria:
 * **Algorithms Step by Step Visualizer** - https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/ - This page starts on bubble sort, but there is a highly navigatable menu on the left side with a ton of algorithms on the side.
 
 * https://bost.ocks.org/mike/algorithms/
-* 
+
+
 ## Pandas
 
 * https://pandastutor.com
@@ -46,8 +51,9 @@ The resources below are selected by the following criteria:
 
 ## Researchers that are fantastic explainers
 
-* Bret Victor
-* Mingwei Li - https://tiga1231.github.io
+* **Steven Witten** Incredible 3D designer and blogger - https://acko.net
+* **Bret Victor**
+* **Mingwei Li** - https://tiga1231.github.io
 
 ## Causal Inference
 * https://www.r-bloggers.com/2022/01/simple-examples-to-understand-what-confounders-colliders-mediators-and-moderators-are-and-how-to-control-for-variables-in-r-with-regression-and-propensity-score-matching/
@@ -58,9 +64,10 @@ The resources below are selected by the following criteria:
 * Zach Star
 * Statquest
 
-## Best Online Platforms for Self-Learning
+## Best Online Platforms for Interactive Self-Learning
 
 * Brilliant.org
 * Datacamp.com
 * Khan Academy
+* https://mathigon.org
 
