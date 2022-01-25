@@ -60,7 +60,7 @@ The resources below are selected by the following criteria:
 
 ## Learn how to make math explorables yourself
 
-* D3 Basic guide - Yan Holtz -  https://www.d3-graph-gallery.com/index.html
+* **D3 Basic guide - Yan Holtz** -  https://www.d3-graph-gallery.com/index.html
 
 ## Youtubers with great explainer videos.
 
