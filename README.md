@@ -58,6 +58,10 @@ The resources below are selected by the following criteria:
 ## Causal Inference
 * https://www.r-bloggers.com/2022/01/simple-examples-to-understand-what-confounders-colliders-mediators-and-moderators-are-and-how-to-control-for-variables-in-r-with-regression-and-propensity-score-matching/
 
+## Learn how to make math explorables yourself
+
+* D3 Basic guide - Yan Holtz -  https://www.d3-graph-gallery.com/index.html
+
 ## Youtubers with great explainer videos.
 
 * 3 Blue 1 Brown - 
