@@ -26,6 +26,7 @@ The resources below are selected by the following criteria:
 ## Deep Learning
 
 * **Backpropagation Explainer** - https://xnought.github.io/backprop-explainer/
+* **Tensorspace.js - Neural Network 3D Visualization** - https://github.com/tensorspace-team/tensorspace
 
 ## Linear Algebra
 
