@@ -21,7 +21,7 @@ The resources below are selected by the following criteria:
 
 ## High Dimensionality Visualization
 * **UMAP / T-SNE / PCA Visualizer** - https://projector.tensorflow.org
-
+* **R2 D3 Machine Learning Explainers** - http://www.r2d3.us
 
 ## Deep Learning
 
